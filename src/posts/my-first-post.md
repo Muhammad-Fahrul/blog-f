@@ -18,6 +18,8 @@ tags:
 
 ## Emphasis
 
+![](/static/img/albadr.png)
+
 *This text will be italic*\
 *This will also be italic*
 
